@@ -9,7 +9,7 @@
 
 
 #include <iostream>
-using namespace std;
+using namespace std;// using namespace
 int main()
 {int a,b,c,d,num,den;
 char junk,operate,yN;
