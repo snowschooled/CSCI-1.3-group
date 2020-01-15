@@ -4,12 +4,10 @@
 //
 //  Created by Joel Piontek on 1/15/20.
 //  Copyright © 2020 Snowschooled. All rights reserved.
-// This is a test statement
-// adding stuff
 
 
 #include <iostream>
-using namespace std;// using namespace hello
+using namespace std;
 int main()
 {int a,b,c,d,num,den;
 char junk,operate,yN;
