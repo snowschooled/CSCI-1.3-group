@@ -7,7 +7,7 @@
 
 
 #include <iostream>// new text
-using namespace std;
+using namespace std;//newer text
 int main()
 {int a,b,c,d,num,den;
 char junk,operate,yN;
