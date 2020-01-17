@@ -6,8 +6,8 @@
 //  Copyright © 2020 Snowschooled. All rights reserved.
 
 
-#include <iostream>// new text
-using namespace std;//newer text
+#include <iostream>
+using namespace std;
 int main()
 {int a,b,c,d,num,den;
 char junk,operate,yN;
